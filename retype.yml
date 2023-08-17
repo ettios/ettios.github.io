@@ -1,0 +1,13 @@
+input: .
+output: .retype
+url: https://www.ettios.io/
+favicon: logo/avatar.png
+branding:
+  logo: logo/avatar.png
+  title: Ettios
+  label: Whitepaper
+links:
+- text: Getting Started
+  link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
