@@ -1,6 +1,7 @@
 input: .
 output: .retype
 favicon: logo/avatar.png
+cname: false
 branding:
   logo: logo/avatar.png
   title: Ettios
