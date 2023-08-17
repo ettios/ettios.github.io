@@ -1,3 +1,6 @@
+---
+icon: rocket
+---
 # Introducción
 
 La plataforma **ETTIOS con su propio criptoactivo de igual denominación,** está basada en la tecnología blockchain, que pretende impulsar el desarrollo de ideas, iniciativas y proyectos tecnológicos, así como también tradicionales (inmobiliarios, agropecuarios, etc.). Será el **motor de transformación para personas, empresas y organizaciones,** incentivando una nueva manera de relacionarse y construir relaciones de negocio y apoyo en el mundo digital, donde los tenedores (holders) de ETTIOS ganarán con su exposición a inversiones disruptivas, usando contratos de uno o varios NFTs serializados que representan una participación del proyecto elegido por el inversionista que es emitida en la plataforma.
