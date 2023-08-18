@@ -1,6 +1,7 @@
 ---
+
 order: -100
-icon: ":information_desk_person:"
+icon: telescope
 ---
 
 # Centro de ayuda
